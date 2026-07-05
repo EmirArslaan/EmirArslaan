@@ -12,8 +12,11 @@ I focus on writing understandable code, solving real problems, and continuously 
 ## Tech Stack
 JavaScript • TypeScript • Python • React • Next.js • Node.js • Express • PostgreSQL • MongoDB • Git • Docker
 
-## What I Do
-I turn ideas into functional products with a focus on clean code, good user experience, and long-term maintainability.
+## Featured Projects
+Here are a few projects that show how I think, build, and solve problems:
+- **Pawcare** - Short explanation of the problem it solves  
+  Tech: React, Node.js, PostgreSQL  
+  Repo: [https://github.com/EmirArslaan/PawCare-Showcase] | Live Demo: [https://pawcare-web-omega.vercel.app/]
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/emir-arslan-777889334/
