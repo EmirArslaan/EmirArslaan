@@ -16,7 +16,7 @@ JavaScript • TypeScript • Python • React • Next.js • Node.js • Expre
 Here are a few projects that show how I think, build, and solve problems:
 - **Pawcare** - Short explanation of the problem it solves  
   Tech: React, Node.js, PostgreSQL  
-  Repo: [https://github.com/EmirArslaan/PawCare-Showcase] | Live Demo: [https://pawcare-web-omega.vercel.app/]
+  Repo: https://github.com/EmirArslaan/PawCare-Showcase | Live Demo: https://pawcare-web-omega.vercel.app/
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/emir-arslan-777889334/
